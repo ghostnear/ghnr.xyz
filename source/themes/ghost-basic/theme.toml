@@ -1,0 +1,19 @@
+name = 'Ghost-Base'
+license = 'MIT'
+licenselink = 'https://github.com/owner/repo/LICENSE' # TODO: put the license here too.
+description = 'A simple basic theme.'
+
+# TODO: put Github link here.
+homepage = 'https://github.com/owner/repo'
+
+# Demo site is literally my own.
+demosite = 'https://ghnr.xyz'
+
+# Taxonomy terms
+tags = ['blog', 'company']
+features = ['some', 'awesome', 'features']
+
+# Theme has only one author - that's me.
+[author]
+  name = 'GhostNear'
+  homepage = 'https://ghnr.xyz'

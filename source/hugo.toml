@@ -1,0 +1,4 @@
+baseURL = 'https://ghnr.xyz'
+languageCode = 'en-us'
+title = "GhostNear's Lair"
+theme = 'ghost-basic'

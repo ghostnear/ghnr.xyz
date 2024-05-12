@@ -1,0 +1,4 @@
+# Hugo build artefacts
+build/
+public/
+*.lock
